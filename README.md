@@ -6,6 +6,8 @@ This repo is home to long-form demos and tutorials for Mellea. The main Mellea r
 
 ## Contents
 
+- [`notebooks/gt_2026`](notebooks/gt_2026) — GT 2026 tutorial; based on ICML_2026 but uses local deployment instead of Colab
+- [`notebooks/icml_2026`](notebooks/icml_2026) — ICML 2026 tutorial; Colab based tutorial. Use if you have trouble running locally or are in a network-limited environment like at a large conference
 - [`notebooks/atai_2026`](notebooks/atai_2026) — ATAI 2026 tutorial
 - [`notebooks/orlando_2025`](notebooks/orlando_2025) — Orlando 2025 tutorial
 
