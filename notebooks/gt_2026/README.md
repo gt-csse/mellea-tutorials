@@ -1,0 +1,1 @@
+The tutorial_lowmem.ipynb file contains the same tutorial content but is geared towards laptops with < 16 GB of RAM. It adds some helper functions and unloads/uncaches HF models to try and keep the memory requirements of the notebook within this envelope.  
